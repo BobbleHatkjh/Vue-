@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vue_BuildingBlock / Vue积木
 
 This is a splicing and loading component project based on vue. Component thinking is embedded in the Vue framework. Each function is made into components, and then loaded on demand. A clever route is designed to make the front end like a real building block. Plug-and-play can also be used directly if there are similar components that have been completed before.
 
