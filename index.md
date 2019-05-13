@@ -2,6 +2,8 @@
 
 This is a splicing and loading component project based on vue. Component thinking is embedded in the Vue framework. Each function is made into components, and then loaded on demand. A clever route is designed to make the front end like a real building block. Plug-and-play can also be used directly if there are similar components that have been completed before.
 
+这是基于vue开发的可拼接加载组件式项目，在vue框架里植入组件思维，将每个功能制作成组件，然后按需加载。搭配上设计巧妙的路由,让做前端像真正拼积木一样，拼插即用，如果有之前完成的适合的类似组件也可以直接粘贴使用
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
