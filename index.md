@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BobbleHatkjh/Vue_BuildingBlock/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a splicing and loading component project based on vue. Component thinking is embedded in the Vue framework. Each function is made into components, and then loaded on demand. A clever route is designed to make the front end like a real building block. Plug-and-play can also be used directly if there are similar components that have been completed before.
 
 ### Markdown
 
